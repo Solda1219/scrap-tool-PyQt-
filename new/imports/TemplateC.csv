@@ -1,0 +1,382 @@
+BILANCIO CONSOLIDATO;;;;
+VOCI DI BILANCIO;DATA1;DATA2;NOTE;NOME TAG XBRL
+Dati anagrafici, denominazione;;;;itcc-ci:DatiAnagraficiDenominazione
+Dati anagrafici, sede;;;;itcc-ci:DatiAnagraficiSede
+Dati anagrafici, capitale sociale;;;;itcc-ci:DatiAnagraficiCapitaleSociale
+Dati anagrafici, capitale sociale interamente versato;;;;itcc-ci:DatiAnagraficiCapitaleSocialeInteramenteVersato
+Dati anagrafici, codice cciaa;;;;itcc-ci:DatiAnagraficiCodiceCciaa
+Dati anagrafici, partita iva;;;;itcc-ci:DatiAnagraficiPartitaIva
+Dati anagrafici, codice fiscale;;;;itcc-ci:DatiAnagraficiCodiceFiscale
+Dati anagrafici, numero rea;;;;itcc-ci:DatiAnagraficiNumeroRea
+Dati anagrafici, forma giuridica;;;;itcc-ci:DatiAnagraficiFormaGiuridica
+Dati anagrafici, settore di attività prevalente (ateco);;;;itcc-ci:DatiAnagraficiSettoreAttivitaPrevalenteAteco
+Dati anagrafici, società in liquidazione;;;;itcc-ci:DatiAnagraficiSocietaLiquidazione
+Dati anagrafici, società con socio unico;;;;itcc-ci:DatiAnagraficiSocietaSocioUnico
+Dati anagrafici, società sottoposta ad altrui attività di direzione e coordinamento;;;;itcc-ci:DatiAnagraficiSocietaSottopostaAltruiAttivitaDirezioneCoordinamento
+Dati anagrafici, denominazione della società o ente che esercita l'attività di direzione e coordinamento;;;;itcc-ci:DatiAnagraficiDenominazioneSocietaEnteEsercitaAttivitaDirezioneCoordinamento
+Dati anagrafici, appartenenza a un gruppo;;;;itcc-ci:DatiAnagraficiAppartenenzaGruppo
+Dati anagrafici, denominazione della società capogruppo;;;;itcc-ci:DatiAnagraficiDenominazioneSocietaCapogruppo
+Dati anagrafici, paese della capogruppo;;;;itcc-ci:DatiAnagraficiPaeseCapogruppo
+Dati anagrafici, numero di iscrizione all'albo delle cooperative;;;;itcc-ci:DatiAnagraficiNumeroIscrizioneAlboCooperative
+A - Crediti verso soci per versamenti ancora dovuti, parte richiamata;;;;CreditiVersoSociVersamentiAncoraDovutiParteRichiamata
+A - Crediti verso soci per versamenti ancora dovuti, parte da richiamare;;;;CreditiVersoSociVersamentiAncoraDovutiParteRichiamare
+A - Totale crediti verso soci per versamenti ancora dovuti;;;;TotaleCreditiVersoSociVersamentiAncoraDovuti
+B.I.1 - Immobilizzazioni immateriali, costi di impianto e di ampliamento;;;;ImmobilizzazioniImmaterialiCostiImpiantoAmpliamento
+B.I.2 - Immobilizzazioni immateriali, costi di sviluppo;;;;ImmobilizzazioniImmaterialiCostiSviluppo
+B.I.3 - Immobilizzazioni immateriali, diritti di brevetto industriale e diritti di utilizzazione delle opere dell'ingegno;;;;ImmobilizzazioniImmaterialiDirittiBrevettoIndustrialeDirittiUtilizzazioneOpereIngegno
+B.I.4 - Immobilizzazioni immateriali, concessioni, licenze, marchi e diritti simili;;;;ImmobilizzazioniImmaterialiConcessioniLicenzeMarchiDirittiSimili
+B.I.5 - Immobilizzazioni immateriali, avviamento;;;;ImmobilizzazioniImmaterialiAvviamento
+B.I.6 - Immobilizzazioni immateriali, immobilizzazioni in corso e acconti;;;;ImmobilizzazioniImmaterialiImmobilizzazioniCorsoAcconti
+B.I.7 - Immobilizzazioni immateriali, altre;;;;ImmobilizzazioniImmaterialiAltre
+B.I - Totale immobilizzazioni immateriali;;;;TotaleImmobilizzazioniImmateriali
+B.II.1 - Immobilizzazioni materiali, terreni e fabbricati;;;;ImmobilizzazioniMaterialiTerreniFabbricati
+B.II.2 - Immobilizzazioni materiali, impianti e macchinario;;;;ImmobilizzazioniMaterialiImpiantiMacchinario
+B.II.3 - Immobilizzazioni materiali, attrezzature industriali e commerciali;;;;ImmobilizzazioniMaterialiAttrezzatureIndustrialiCommerciali
+B.II.4 - Immobilizzazioni materiali, altri beni;;;;ImmobilizzazioniMaterialiAltriBeni
+B.II.5 - Immobilizzazioni materiali, immobilizzazioni in corso e acconti;;;;ImmobilizzazioniMaterialiImmobilizzazioniCorsoAcconti
+B.II - Totale immobilizzazioni materiali;;;;TotaleImmobilizzazioniMateriali
+B.III.1.a - Immobilizzazioni finanziarie, partecipazioni, imprese controllate;;;;ImmobilizzazioniFinanziariePartecipazioniImpreseControllate
+B.III.1.b - Immobilizzazioni finanziarie, partecipazioni, imprese collegate;;;;ImmobilizzazioniFinanziariePartecipazioniImpreseCollegate
+B.III.1.c - Immobilizzazioni finanziarie, partecipazioni, imprese controllanti;;;;ImmobilizzazioniFinanziariePartecipazioniImpreseControllanti
+B.III.1.d - Immobilizzazioni finanziarie, partecipazioni, imprese sottoposte al controllo delle controllanti;;;;ImmobilizzazioniFinanziariePartecipazioniImpreseSottoposteControlloControllanti
+B.III.1.d-bis - Immobilizzazioni finanziarie, partecipazioni, altre imprese;;;;ImmobilizzazioniFinanziariePartecipazioniAltreImprese
+B.III.1 - Immobilizzazioni finanziarie, partecipazioni, totale partecipazioni;;;;ImmobilizzazioniFinanziariePartecipazioniTotalePartecipazioni
+B.III.2.a - Immobilizzazioni finanziarie, crediti, verso imprese controllate, esigibili entro l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseControllateEsigibiliEntroEsercizioSuccessivo
+B.III.2.a - Immobilizzazioni finanziarie, crediti, verso imprese controllate, esigibili oltre l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseControllateEsigibiliOltreEsercizioSuccessivo
+B.III.2.a - Immobilizzazioni finanziarie, crediti, verso imprese controllate, totale crediti verso imprese controllate;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseControllateTotaleCreditiVersoImpreseControllate
+B.III.2.b - Immobilizzazioni finanziarie, crediti, verso imprese collegate, esigibili entro l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseCollegateEsigibiliEntroEsercizioSuccessivo
+B.III.2.b - Immobilizzazioni finanziarie, crediti, verso imprese collegate, esigibili oltre l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseCollegateEsigibiliOltreEsercizioSuccessivo
+B.III.2.b - Immobilizzazioni finanziarie, crediti, verso imprese collegate, totale crediti verso imprese collegate;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseCollegateTotaleCreditiVersoImpreseCollegate
+B.III.2.c - Immobilizzazioni finanziarie, crediti, verso controllanti, esigibili entro l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoControllantiEsigibiliEntroEsercizioSuccessivo
+B.III.2.c - Immobilizzazioni finanziarie, crediti, verso controllanti, esigibili oltre l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoControllantiEsigibiliOltreEsercizioSuccessivo
+B.III.2.c - Immobilizzazioni finanziarie, crediti, verso controllanti, totale crediti verso controllanti;;;;ImmobilizzazioniFinanziarieCreditiVersoControllantiTotaleCreditiVersoControllanti
+B.III.2.d - Immobilizzazioni finanziarie, crediti, verso imprese sottoposte al controllo delle controllanti, esigibili entro l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseSottoposteControlloControllantiEsigibiliEntroEsercizioSuccessivo
+B.III.2.d - Immobilizzazioni finanziarie, crediti, verso imprese sottoposte al controllo delle controllanti, esigibili oltre l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseSottoposteControlloControllantiEsigibiliOltreEsercizioSuccessivo
+B.III.2.d - Immobilizzazioni finanziarie, crediti, verso imprese sottoposte al controllo delle controllanti, totale crediti verso imprese sottoposte al controllo delle controllanti;;;;ImmobilizzazioniFinanziarieCreditiVersoImpreseSottoposteControlloControllantiTotaleCreditiVersoImpreseSottoposteControlloControllanti
+B.III.2.d-bis - Immobilizzazioni finanziarie, crediti, verso altri, esigibili entro l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoAltriEsigibiliEntroEsercizioSuccessivo
+B.III.2.d-bis - Immobilizzazioni finanziarie, crediti, verso altri, esigibili oltre l'esercizio successivo;;;;ImmobilizzazioniFinanziarieCreditiVersoAltriEsigibiliOltreEsercizioSuccessivo
+B.III.2.d-bis - Totale crediti immobilizzati verso altri;;;;ImmobilizzazioniFinanziarieCreditiVersoAltriTotaleCreditiVersoAltri
+B.III.2 - Immobilizzazioni finanziarie, crediti, totale crediti;;;;ImmobilizzazioniFinanziarieCreditiTotaleCrediti
+B.III.3 - Immobilizzazioni finanziarie, altri titoli;;;;ImmobilizzazioniFinanziarieAltriTitoli
+B.III.4 - Immobilizzazioni finanziarie, strumenti finanziari derivati attivi;;;;ImmobilizzazioniFinanziarieStrumentiFinanziariDerivatiAttivi
+B.III - Totale immobilizzazioni finanziarie;;;;TotaleImmobilizzazioniFinanziarie
+B - Totale immobilizzazioni;;;;TotaleImmobilizzazioni
+C.I.1 - Rimanenze, materie prime, sussidiarie e di consumo;;;;RimanenzeMateriePrimeSussidiarieConsumo
+C.I.2 - Rimanenze, prodotti in corso di lavorazione e semilavorati;;;;RimanenzeProdottiCorsoLavorazioneSemilavorati
+C.I.3 - Rimanenze, lavori in corso su ordinazione;;;;RimanenzeLavoriCorsoOrdinazione
+C.I.4 - Rimanenze, prodotti finiti e merci;;;;RimanenzeProdottiFinitiMerci
+C.I.5 - Rimanenze, acconti;;;;RimanenzeAcconti
+C.I - Totale rimanenze;;;;TotaleRimanenze
+C - Immobilizzazioni materiali destinate alla vendita;;;;ImmobilizzazioniMaterialiDestinateAllaVendita
+C.II.1 - Crediti, verso clienti, esigibili entro l'esercizio successivo;;;;CreditiVersoClientiEsigibiliEntroEsercizioSuccessivo
+C.II.1 - Crediti, verso clienti, esigibili oltre l'esercizio successivo;;;;CreditiVersoClientiEsigibiliOltreEsercizioSuccessivo
+C.II.1 - Crediti, verso clienti, totale crediti verso clienti;;;;CreditiVersoClientiTotaleCreditiVersoClienti
+C.II.2 - Crediti, verso imprese controllate, esigibili entro l'esercizio successivo;;;;CreditiVersoImpreseControllateEsigibiliEntroEsercizioSuccessivo
+C.II.2 - Crediti, verso imprese controllate, esigibili oltre l'esercizio successivo;;;;CreditiVersoImpreseControllateEsigibiliOltreEsercizioSuccessivo
+C.II.2 - Crediti, verso imprese controllate, totale crediti verso imprese controllate;;;;CreditiVersoImpreseControllateTotaleCreditiVersoImpreseControllate
+C.II.3 - Crediti, verso imprese collegate, esigibili entro l'esercizio successivo;;;;CreditiVersoImpreseCollegateEsigibiliEntroEsercizioSuccessivo
+C.II.3 - Crediti, verso imprese collegate, esigibili oltre l'esercizio successivo;;;;CreditiVersoImpreseCollegateEsigibiliOltreEsercizioSuccessivo
+C.II.3 - Crediti, verso imprese collegate, totale crediti verso imprese collegate;;;;CreditiVersoImpreseCollegateTotaleCreditiVersoImpreseCollegate
+C.II.4 - Crediti, verso controllanti, esigibili entro l'esercizio successivo;;;;CreditiVersoControllantiEsigibiliEntroEsercizioSuccessivo
+C.II.4 - Crediti, verso controllanti, esigibili oltre l'esercizio successivo;;;;CreditiVersoControllantiEsigibiliOltreEsercizioSuccessivo
+C.II.4 - Crediti, verso controllanti, totale crediti verso controllanti;;;;CreditiVersoControllantiTotaleCreditiVersoControllanti
+C.II.5 - Crediti, verso imprese sottoposte al controllo delle controllanti, esigibili entro l'esercizio successivo;;;;CreditiVersoImpreseSottoposteControlloControllantiEsigibiliEntroEsercizioSuccessivo
+C.II.5 - Crediti, verso imprese sottoposte al controllo delle controllanti, esigibili oltre l'esercizio successivo;;;;CreditiVersoImpreseSottoposteControlloControllantiEsigibiliOltreEsercizioSuccessivo
+C.II.5 - Crediti, verso imprese sottoposte al controllo delle controllanti, totale crediti verso imprese sottoposte al controllo delle controllanti;;;;CreditiVersoImpreseSottoposteControlloControllantiTotaleCreditiVersoImpreseSottoposteControlloControllanti
+C.II.5-bis - Crediti, crediti tributari, esigibili entro l'esercizio successivo;;;;CreditiCreditiTributariEsigibiliEntroEsercizioSuccessivo
+C.II.5-bis - Crediti, crediti tributari, esigibili oltre l'esercizio successivo;;;;CreditiCreditiTributariEsigibiliOltreEsercizioSuccessivo
+C.II.5-bis - Crediti, crediti tributari, totale crediti tributari;;;;CreditiCreditiTributariTotaleCreditiTributari
+C.II.5-ter - Crediti, imposte anticipate, totale imposte anticipate;;;;CreditiImposteAnticipateTotaleImposteAnticipate
+C.II.5-quater - Crediti, verso altri, esigibili entro l'esercizio successivo;;;;CreditiVersoAltriEsigibiliEntroEsercizioSuccessivo
+C.II.5-quater - Crediti, verso altri, esigibili oltre l'esercizio successivo;;;;CreditiVersoAltriEsigibiliOltreEsercizioSuccessivo
+C.II.5-quater - Crediti, verso altri, totale crediti verso altri;;;;CreditiVersoAltriTotaleCreditiVersoAltri
+C.II - Totale crediti;;;;TotaleCrediti
+C.III.1 - Attività finanziarie che non costituiscono immobilizzazioni, partecipazioni in imprese controllate;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniPartecipazioniImpreseControllate
+C.III.2 - Attività finanziarie che non costituiscono immobilizzazioni, partecipazioni in imprese collegate;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniPartecipazioniImpreseCollegate
+C.III.3 - Attività finanziarie che non costituiscono immobilizzazioni, partecipazioni in imprese controllanti;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniPartecipazioniImpreseControllanti
+C.III.3-bis - Attività finanziarie che non costituiscono immobilizzazioni, partecipazioni in imprese sottoposte al controllo delle controllanti;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniPartecipazioniImpreseSottoposteControlloControllanti
+C.III.4 - Attività finanziarie che non costituiscono immobilizzazioni, altre partecipazioni;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniAltrePartecipazioni
+C.III.5 - Attività finanziarie che non costituiscono immobilizzazioni, strumenti finanziari derivati attivi;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniStrumentiFinanziariDerivatiAttivi
+C.III.6 - Attività finanziarie che non costituiscono immobilizzazioni, altri titoli;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniAltriTitoli
+C.III - Attività finanziarie che non costituiscono immobilizzazioni, attività finanziarie per la gestione accentrata della tesoreria;;;;AttivitaFinanziarieNonCostituisconoImmobilizzazioniAttivitaFinanziarieLaGestioneAccentrataTesoreria
+C.III - Totale attività finanziarie che non costituiscono immobilizzazioni;;;;TotaleAttivitaFinanziarieNonCostituisconoImmobilizzazioni
+C.IV.1 - Disponibilità liquide, depositi bancari e postali;;;;DisponibilitaLiquideDepositiBancariPostali
+C.IV.2 - Disponibilità liquide, assegni;;;;DisponibilitaLiquideAssegni
+C.IV.3 - Disponibilità liquide, danaro e valori in cassa;;;;DisponibilitaLiquideDanaroValoriCassa
+C.IV - Totale disponibilità liquide;;;;TotaleDisponibilitaLiquide
+C - Totale attivo circolante;;;;TotaleAttivoCircolante
+D - Attivo, ratei e risconti;;;;AttivoRateiRisconti
+Totale attivo;;;;TotaleAttivo
+A.I - Patrimonio netto, capitale;;;;PatrimonioNettoCapitale
+A.II - Patrimonio netto, riserva da soprapprezzo delle azioni;;;;PatrimonioNettoRiservaSoprapprezzoAzioni
+A.III - Patrimonio netto, riserve di rivalutazione;;;;PatrimonioNettoRiserveRivalutazione
+A.IV - Patrimonio netto, riserva legale;;;;PatrimonioNettoRiservaLegale
+A.V - Patrimonio netto, riserve statutarie;;;;PatrimonioNettoRiserveStatutarie
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva straordinaria;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaStraordinaria
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva da deroghe ex articolo 2423 codice civile;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaDerogheExArticolo2423CodiceCivile
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva azioni (quote) della società controllante;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaAzioniQuoteSocietaControllante
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva da rivalutazione delle partecipazioni;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaRivalutazionePartecipazioni
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, versamenti in conto aumento di capitale;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateVersamentiContoAumentoCapitale
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, versamenti in conto futuro aumento di capitale;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateVersamentiContoFuturoAumentoCapitale
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, versamenti in conto capitale;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateVersamentiContoCapitale
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, versamenti a copertura perdite;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateVersamentiCoperturaPerdite
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva da riduzione capitale sociale;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaRiduzioneCapitaleSociale
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva avanzo di fusione;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaAvanzoFusione
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva per utili su cambi non realizzati;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaUtiliCambiNonRealizzati
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva da conguaglio utili in corso;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaConguaglioUtiliCorso
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva di consolidamento;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaConsolidamento
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, riserva da differenze di traduzione;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateRiservaDifferenzeTraduzione
+A.VI - Totale, varie altre riserve;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateVarieAltreRiserve
+A.VI - Patrimonio netto, Altre riserve, distintamente indicate, totale altre riserve;;;;PatrimonioNettoAltreRiserveDistintamenteIndicateTotaleAltreRiserve
+A.VII - Patrimonio netto, riserva per operazioni di copertura dei flussi finanziari attesi;;;;PatrimonioNettoRiservaOperazioniCoperturaFlussiFinanziariAttesi
+A.VIII - Patrimonio netto, utili (perdite) portati a nuovo;;;;PatrimonioNettoUtiliPerditePortatiNuovo
+A.IX - Patrimonio netto, utile (perdita) dell'esercizio;;;;PatrimonioNettoUtilePerditaEsercizio
+A - Patrimonio netto, perdita ripianata nell'esercizio;;;;PatrimonioNettoPerditaRipianataEsercizio
+A.X - Patrimonio netto, riserva negativa per azioni proprie in portafoglio;;;;PatrimonioNettoRiservaNegativaAzioniPropriePortafoglio
+A - Totale patrimonio netto;;;;TotalePatrimonioNetto
+A - Patrimonio netto di terzi, capitale e riserve di terzi;;;;PatrimonioNettoTerziCapitaleRiserveTerzi
+A - Patrimonio netto di terzi, utile (perdita) di terzi;;;;PatrimonioNettoTerziUtilePerditaTerzi
+A - Patrimonio netto di terzi, totale patrimonio netto di terzi;;;;PatrimonioNettoTerziTotalePatrimonioNettoTerzi
+A - Totale patrimonio netto consolidato;;;;TotalePatrimonioNettoConsolidato
+B.1 - Fondi per rischi e oneri, per trattamento di quiescenza e obblighi simili;;;;FondiRischiOneriTrattamentoQuiescenzaObblighiSimili
+B.2 - Fondi per rischi e oneri, per imposte, anche differite;;;;FondiRischiOneriImposteAncheDifferite
+B - Fondi per rischi e oneri, fondo di consolidamento per rischi e oneri futuri;;;;FondiRischiOneriFondoConsolidamentoRischiOneriFuturi
+B.3 - Fondi per rischi e oneri, strumenti finanziari derivati passivi;;;;FondiRischiOneriStrumentiFinanziariDerivatiPassivi
+B.4 - Fondi per rischi e oneri, altri;;;;FondiRischiOneriAltri
+B - Totale fondi per rischi ed oneri;;;;TotaleFondiRischiOneri
+C - Trattamento di fine rapporto di lavoro subordinato;;;;TrattamentoFineRapportoLavoroSubordinato
+D.1 - Debiti, obbligazioni, esigibili entro l'esercizio successivo;;;;DebitiObbligazioniEsigibiliEntroEsercizioSuccessivo
+D.1 - Debiti, obbligazioni, esigibili oltre l'esercizio successivo;;;;DebitiObbligazioniEsigibiliOltreEsercizioSuccessivo
+D.1 - Debiti, obbligazioni, totale obbligazioni;;;;DebitiObbligazioniTotaleObbligazioni
+D.2 - Debiti, obbligazioni convertibili, esigibili entro l'esercizio successivo;;;;DebitiObbligazioniConvertibiliEsigibiliEntroEsercizioSuccessivo
+D.2 - Debiti, obbligazioni convertibili, esigibili oltre l'esercizio successivo;;;;DebitiObbligazioniConvertibiliEsigibiliOltreEsercizioSuccessivo
+D.2 - Debiti, obbligazioni convertibili, totale obbligazioni convertibili;;;;DebitiObbligazioniConvertibiliTotaleObbligazioniConvertibili
+D.3 - Debiti, debiti verso soci per finanziamenti, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoSociFinanziamentiEsigibiliEntroEsercizioSuccessivo
+D.3 - Debiti, debiti verso soci per finanziamenti, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoSociFinanziamentiEsigibiliOltreEsercizioSuccessivo
+D.3 - Debiti, debiti verso soci per finanziamenti, totale debiti verso soci per finanziamenti;;;;DebitiDebitiVersoSociFinanziamentiTotaleDebitiVersoSociFinanziamenti
+D.4 - Debiti, debiti verso banche, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoBancheEsigibiliEntroEsercizioSuccessivo
+D.4 - Debiti, debiti verso banche, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoBancheEsigibiliOltreEsercizioSuccessivo
+D.4 - Debiti, debiti verso banche, totale debiti verso banche;;;;DebitiDebitiVersoBancheTotaleDebitiVersoBanche
+D.5 - Debiti, debiti verso altri finanziatori, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoAltriFinanziatoriEsigibiliEntroEsercizioSuccessivo
+D.5 - Debiti, debiti verso altri finanziatori, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoAltriFinanziatoriEsigibiliOltreEsercizioSuccessivo
+D.5 - Debiti, debiti verso altri finanziatori, totale debiti verso altri finanziatori;;;;DebitiDebitiVersoAltriFinanziatoriTotaleDebitiVersoAltriFinanziatori
+D.6 - Debiti, acconti, esigibili entro l'esercizio successivo;;;;DebitiAccontiEsigibiliEntroEsercizioSuccessivo
+D.6 - Debiti, acconti, esigibili oltre l'esercizio successivo;;;;DebitiAccontiEsigibiliOltreEsercizioSuccessivo
+D.6 - Debiti, acconti, totale acconti;;;;DebitiAccontiTotaleAcconti
+D.7 - Debiti, debiti verso fornitori, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoFornitoriEsigibiliEntroEsercizioSuccessivo
+D.7 - Debiti, debiti verso fornitori, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoFornitoriEsigibiliOltreEsercizioSuccessivo
+D.7 - Debiti, debiti verso fornitori, totale debiti verso fornitori;;;;DebitiDebitiVersoFornitoriTotaleDebitiVersoFornitori
+D.8 - Debiti, debiti rappresentati da titoli di credito, esigibili entro l'esercizio successivo;;;;DebitiDebitiRappresentatiTitoliCreditoEsigibiliEntroEsercizioSuccessivo
+D.8 - Debiti, debiti rappresentati da titoli di credito, esigibili oltre l'esercizio successivo;;;;DebitiDebitiRappresentatiTitoliCreditoEsigibiliOltreEsercizioSuccessivo
+D.8 - Debiti, debiti rappresentati da titoli di credito, totale debiti rappresentati da titoli di credito;;;;DebitiDebitiRappresentatiTitoliCreditoTotaleDebitiRappresentatiTitoliCredito
+D.9 - Debiti, debiti verso imprese controllate, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoImpreseControllateEsigibiliEntroEsercizioSuccessivo
+D.9 - Debiti, debiti verso imprese controllate, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoImpreseControllateEsigibiliOltreEsercizioSuccessivo
+D.9 - Debiti, debiti verso imprese controllate, totale debiti verso imprese controllate;;;;DebitiDebitiVersoImpreseControllateTotaleDebitiVersoImpreseControllate
+D.10 - Debiti, debiti verso imprese collegate, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoImpreseCollegateEsigibiliEntroEsercizioSuccessivo
+D.10 - Debiti, debiti verso imprese collegate, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoImpreseCollegateEsigibiliOltreEsercizioSuccessivo
+D.10 - Debiti, debiti verso imprese collegate, totale debiti verso imprese collegate;;;;DebitiDebitiVersoImpreseCollegateTotaleDebitiVersoImpreseCollegate
+D.11 - Debiti, debiti verso controllanti, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoControllantiEsigibiliEntroEsercizioSuccessivo
+D.11 - Debiti, debiti verso controllanti, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoControllantiEsigibiliOltreEsercizioSuccessivo
+D.11 - Debiti, debiti verso controllanti, totale debiti verso controllanti;;;;DebitiDebitiVersoControllantiTotaleDebitiVersoControllanti
+D.11-bis - Debiti, debiti verso imprese sottoposte al controllo delle controllanti, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoImpreseSottoposteControlloControllantiEsigibiliEntroEsercizioSuccessivo
+D.11-bis - Debiti, debiti verso imprese sottoposte al controllo delle controllanti, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoImpreseSottoposteControlloControllantiEsigibiliOltreEsercizioSuccessivo
+D.11-bis - Debiti, debiti verso imprese sottoposte al controllo delle controllanti, totale debiti verso imprese sottoposte al controllo delle controllanti;;;;DebitiDebitiVersoImpreseSottoposteControlloControllantiTotaleDebitiVersoImpreseSottoposteControlloControllanti
+D.12 - Debiti, debiti tributari, esigibili entro l'esercizio successivo;;;;DebitiDebitiTributariEsigibiliEntroEsercizioSuccessivo
+D.12 - Debiti, debiti tributari, esigibili oltre l'esercizio successivo;;;;DebitiDebitiTributariEsigibiliOltreEsercizioSuccessivo
+D.12 - Debiti, debiti tributari, totale debiti tributari;;;;DebitiDebitiTributariTotaleDebitiTributari
+D.13 - Debiti, debiti verso istituti di previdenza e di sicurezza sociale, esigibili entro l'esercizio successivo;;;;DebitiDebitiVersoIstitutiPrevidenzaSicurezzaSocialeEsigibiliEntroEsercizioSuccessivo
+D.13 - Debiti, debiti verso istituti di previdenza e di sicurezza sociale, esigibili oltre l'esercizio successivo;;;;DebitiDebitiVersoIstitutiPrevidenzaSicurezzaSocialeEsigibiliOltreEsercizioSuccessivo
+D.13 - Debiti, debiti verso istituti di previdenza e di sicurezza sociale, totale debiti verso istituti di previdenza e di sicurezza sociale;;;;DebitiDebitiVersoIstitutiPrevidenzaSicurezzaSocialeTotaleDebitiVersoIstitutiPrevidenzaSicurezzaSociale
+D.14 - Debiti, altri debiti, esigibili entro l'esercizio successivo;;;;DebitiAltriDebitiEsigibiliEntroEsercizioSuccessivo
+D.14 - Debiti, altri debiti, esigibili oltre l'esercizio successivo;;;;DebitiAltriDebitiEsigibiliOltreEsercizioSuccessivo
+D.14 - Totale altri debiti;;;;DebitiAltriDebitiTotaleAltriDebiti
+D - Totale debiti;;;;TotaleDebiti
+E - Passivo, ratei e risconti;;;;PassivoRateiRisconti
+Totale passivo;;;;TotalePassivo
+A.1 - Valore della produzione, ricavi delle vendite e delle prestazioni;;;;ValoreProduzioneRicaviVenditePrestazioni
+A.2 - Valore della produzione, variazioni delle rimanenze di prodotti in corso di lavorazione, semilavorati e finiti;;;;ValoreProduzioneVariazioniRimanenzeProdottiCorsoLavorazioneSemilavoratiFiniti
+A.3 - Valore della produzione, variazioni dei lavori in corso su ordinazione;;;;ValoreProduzioneVariazioniLavoriCorsoOrdinazione
+A.4 - Valore della produzione, incrementi di immobilizzazioni per lavori interni;;;;ValoreProduzioneIncrementiImmobilizzazioniLavoriInterni
+A.5 - Valore della produzione, altri ricavi e proventi, contributi in conto esercizio;;;;ValoreProduzioneAltriRicaviProventiContributiContoEsercizio
+A.5 - Valore della produzione, altri ricavi e proventi, altri;;;;ValoreProduzioneAltriRicaviProventiAltri
+A.5 - Valore della produzione, altri ricavi e proventi, totale altri ricavi e proventi;;;;ValoreProduzioneAltriRicaviProventiTotaleAltriRicaviProventi
+A - Totale valore della produzione;;;;TotaleValoreProduzione
+B.6 - Costi della produzione, per materie prime, sussidiarie, di consumo e di merci;;;;CostiProduzioneMateriePrimeSussidiarieConsumoMerci
+B.7 - Costi della produzione, per servizi;;;;CostiProduzioneServizi
+B.8 - Costi della produzione, per godimento di beni di terzi;;;;CostiProduzioneGodimentoBeniTerzi
+B.9.a - Costi della produzione, per il personale, salari e stipendi;;;;CostiProduzionePersonaleSalariStipendi
+B.9.b - Costi della produzione, per il personale, oneri sociali;;;;CostiProduzionePersonaleOneriSociali
+B.9.c - Costi della produzione, per il personale, trattamento di fine rapporto;;;;CostiProduzionePersonaleTrattamentoFineRapporto
+B.9.d - Costi della produzione, per il personale, trattamento di quiescenza e simili;;;;CostiProduzionePersonaleTrattamentoQuiescenzaSimili
+B.9.e - Costi della produzione, per il personale, altri costi;;;;CostiProduzionePersonaleAltriCosti
+B.9 - Costi della produzione, per il personale, totale costi per il personale;;;;CostiProduzionePersonaleTotaleCostiPersonale
+B.10.a - Costi della produzione, ammortamenti e svalutazioni, ammortamento delle immobilizzazioni immateriali;;;;CostiProduzioneAmmortamentiSvalutazioniAmmortamentoImmobilizzazioniImmateriali
+B.10.b - Costi della produzione, ammortamenti e svalutazioni, ammortamento delle immobilizzazioni materiali;;;;CostiProduzioneAmmortamentiSvalutazioniAmmortamentoImmobilizzazioniMateriali
+B.10.c - Costi della produzione, ammortamenti e svalutazioni, altre svalutazioni delle immobilizzazioni;;;;CostiProduzioneAmmortamentiSvalutazioniAltreSvalutazioniImmobilizzazioni
+B.10.d - Costi della produzione, ammortamenti e svalutazioni, svalutazioni dei crediti compresi nell'attivo circolante e delle disponibilità liquide;;;;CostiProduzioneAmmortamentiSvalutazioniSvalutazioniCreditiCompresiAttivoCircolanteDisponibilitaLiquide
+B.10 - Costi della produzione, ammortamenti e svalutazioni, totale ammortamenti e svalutazioni;;;;CostiProduzioneAmmortamentiSvalutazioniTotaleAmmortamentiSvalutazioni
+B.11 - Costi della produzione, variazioni delle rimanenze di materie prime, sussidiarie, di consumo e merci;;;;CostiProduzioneVariazioniRimanenzeMateriePrimeSussidiarieConsumoMerci
+B.12 - Costi della produzione, accantonamenti per rischi;;;;CostiProduzioneAccantonamentiRischi
+B.13 - Costi della produzione, altri accantonamenti;;;;CostiProduzioneAltriAccantonamenti
+B.14 - Costi della produzione, oneri diversi di gestione;;;;CostiProduzioneOneriDiversiGestione
+B - Totale costi della produzione;;;;TotaleCostiProduzione
+Differenza tra valore e costi della produzione;;;;DifferenzaValoreCostiProduzione
+C.15 - Proventi e oneri finanziari, proventi da partecipazioni, da imprese controllate;;;;ProventiOneriFinanziariProventiPartecipazioniImpreseControllate
+C.15 - Proventi e oneri finanziari, proventi da partecipazioni, da imprese collegate;;;;ProventiOneriFinanziariProventiPartecipazioniImpreseCollegate
+C.15 - Proventi e oneri finanziari, proventi da partecipazioni, da imprese controllanti;;;;ProventiOneriFinanziariProventiPartecipazioniImpreseControllanti
+C.15 - Proventi e oneri finanziari, proventi da partecipazioni, da imprese sottoposte al controllo delle controllanti;;;;ProventiOneriFinanziariProventiPartecipazioniImpreseSottoposteControlloControllanti
+C.15 - Proventi e oneri finanziari, proventi da partecipazioni, altri;;;;ProventiOneriFinanziariProventiPartecipazioniAltri
+C.15 - Proventi e oneri finanziari, proventi da partecipazioni, totale proventi da partecipazioni;;;;ProventiOneriFinanziariProventiPartecipazioniTotaleProventiPartecipazioni
+C.16.a - Proventi e oneri finanziari, altri proventi finanziari, da crediti iscritti nelle immobilizzazioni, da imprese controllate;;;;ProventiOneriFinanziariAltriProventiFinanziariCreditiIscrittiImmobilizzazioniImpreseControllate
+C.16.a - Proventi e oneri finanziari, altri proventi finanziari, da crediti iscritti nelle immobilizzazioni, da imprese collegate;;;;ProventiOneriFinanziariAltriProventiFinanziariCreditiIscrittiImmobilizzazioniImpreseCollegate
+C.16.a - Proventi e oneri finanziari, altri proventi finanziari, da crediti iscritti nelle immobilizzazioni, da imprese controllanti;;;;ProventiOneriFinanziariAltriProventiFinanziariCreditiIscrittiImmobilizzazioniImpreseControllanti
+C.16.a - Proventi e oneri finanziari, altri proventi finanziari, da crediti iscritti nelle immobilizzazioni, da imprese sottoposte al controllo delle controllanti;;;;ProventiOneriFinanziariAltriProventiFinanziariCreditiIscrittiImmobilizzazioniImpreseSottoposteControlloControllanti
+C.16.a - Proventi e oneri finanziari, altri proventi finanziari, da crediti iscritti nelle immobilizzazioni, altri;;;;ProventiOneriFinanziariAltriProventiFinanziariCreditiIscrittiImmobilizzazioniAltri
+C.16.a - Proventi e oneri finanziari, altri proventi finanziari, da crediti iscritti nelle immobilizzazioni, totale proventi finanziari da crediti iscritti nelle immobilizzazioni;;;;ProventiOneriFinanziariAltriProventiFinanziariCreditiIscrittiImmobilizzazioniTotaleProventiFinanziariCreditiIscrittiImmobilizzazioni
+C.16.b - Proventi e oneri finanziari, altri proventi finanziari, da titoli iscritti nelle immobilizzazioni che non costituiscono partecipazioni;;;;ProventiOneriFinanziariAltriProventiFinanziariTitoliIscrittiImmobilizzazioniNonCostituisconoPartecipazioni
+C.16.c - Proventi e oneri finanziari, altri proventi finanziari, da titoli iscritti nell'attivo circolante che non costituiscono partecipazioni;;;;ProventiOneriFinanziariAltriProventiFinanziariTitoliIscrittiAttivoCircolanteNonCostituisconoPartecipazioni
+C.16.d - Proventi e oneri finanziari, altri proventi finanziari, proventi diversi dai precedenti, da imprese controllate;;;;ProventiOneriFinanziariAltriProventiFinanziariProventiDiversiPrecedentiImpreseControllate
+C.16.d - Proventi e oneri finanziari, altri proventi finanziari, proventi diversi dai precedenti, da imprese collegate;;;;ProventiOneriFinanziariAltriProventiFinanziariProventiDiversiPrecedentiImpreseCollegate
+C.16.d - Proventi e oneri finanziari, altri proventi finanziari, proventi diversi dai precedenti, da imprese controllanti;;;;ProventiOneriFinanziariAltriProventiFinanziariProventiDiversiPrecedentiImpreseControllanti
+C.16.d - Proventi e oneri finanziari, altri proventi finanziari, proventi diversi dai precedenti, da imprese sottoposte al controllo delle controllanti;;;;ProventiOneriFinanziariAltriProventiFinanziariProventiDiversiPrecedentiImpreseSottoposteControlloControllanti
+C.16.d - Proventi e oneri finanziari, altri proventi finanziari, proventi diversi dai precedenti, altri;;;;ProventiOneriFinanziariAltriProventiFinanziariProventiDiversiPrecedentiAltri
+C.16.d - Proventi e oneri finanziari, altri proventi finanziari, proventi diversi dai precedenti, totale proventi diversi dai precedenti;;;;ProventiOneriFinanziariAltriProventiFinanziariProventiDiversiPrecedentiTotaleProventiDiversiPrecedenti
+C.16 - Proventi e oneri finanziari, altri proventi finanziari, totale altri proventi finanziari;;;;ProventiOneriFinanziariAltriProventiFinanziariTotaleAltriProventiFinanziari
+C.17 - Proventi e oneri finanziari, interessi e altri oneri finanziari, verso imprese controllate;;;;ProventiOneriFinanziariInteressiAltriOneriFinanziariVersoImpreseControllate
+C.17 - Proventi e oneri finanziari, interessi e altri oneri finanziari, verso imprese collegate;;;;ProventiOneriFinanziariInteressiAltriOneriFinanziariVersoImpreseCollegate
+C.17 - Proventi e oneri finanziari, interessi e altri oneri finanziari, verso imprese controllanti;;;;ProventiOneriFinanziariInteressiAltriOneriFinanziariVersoImpreseControllanti
+C.17 - Proventi e oneri finanziari, interessi e altri oneri finanziari, verso imprese sottoposte al controllo delle controllanti;;;;ProventiOneriFinanziariInteressiAltriOneriFinanziariVersoImpreseSottoposteControlloControllanti
+C.17 - Proventi e oneri finanziari, interessi e altri oneri finanziari, altri;;;;ProventiOneriFinanziariInteressiAltriOneriFinanziariAltri
+C.17 - Proventi e oneri finanziari, interessi e altri oneri finanziari, totale interessi e altri oneri finanziari;;;;ProventiOneriFinanziariInteressiAltriOneriFinanziariTotaleInteressiAltriOneriFinanziari
+C.17-bis - Proventi e oneri finanziari, utili e perdite su cambi;;;;ProventiOneriFinanziariUtiliPerditeCambi
+C - Totale proventi e oneri finanziari;;;;TotaleProventiOneriFinanziari
+D.18.a - Rettifiche di valore di attività e passività finanziarie, rivalutazioni, di partecipazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieRivalutazioniPartecipazioni
+D.18.b - Rettifiche di valore di attività e passività finanziarie, rivalutazioni, di immobilizzazioni finanziarie che non costituiscono partecipazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieRivalutazioniImmobilizzazioniFinanziarieNonCostituisconoPartecipazioni
+D.18.c - Rettifiche di valore di attività e passività finanziarie, rivalutazioni, di titoli iscritti all'attivo circolante che non costituiscono partecipazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieRivalutazioniTitoliIscrittiAttivoCircolanteNonCostituisconoPartecipazioni
+D.18.d - Rettifiche di valore di attività e passività finanziarie, rivalutazioni, di strumenti finanziari derivati;;;;RettificheValoreAttivitaPassivitaFinanziarieRivalutazioniStrumentiFinanziariDerivati
+D.18 - Rettifiche di valore di attività e passività finanziarie, rivalutazioni, di attività finanziarie per la gestione accentrata della tesoreria;;;;RettificheValoreAttivitaPassivitaFinanziarieRivalutazioniAttivitaFinanziarieLaGestioneAccentrataTesoreria
+D.18 - Rettifiche di valore di attività e passività finanziarie, rivalutazioni, totale rivalutazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieRivalutazioniTotaleRivalutazioni
+D.19.a - Rettifiche di valore di attività e passività finanziarie, svalutazioni, di partecipazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieSvalutazioniPartecipazioni
+D.19.b - Rettifiche di valore di attività e passività finanziarie, svalutazioni, di immobilizzazioni finanziarie che non costituiscono partecipazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieSvalutazioniImmobilizzazioniFinanziarieNonCostituisconoPartecipazioni
+D.19.c - Rettifiche di valore di attività e passività finanziarie, svalutazioni, di titoli iscritti nell'attivo circolante che non costituiscono partecipazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieSvalutazioniTitoliIscrittiAttivoCircolanteNonCostituisconoPartecipazioni
+D.19.d - Rettifiche di valore di attività e passività finanziarie, svalutazioni, di strumenti finanziari derivati;;;;RettificheValoreAttivitaPassivitaFinanziarieSvalutazioniStrumentiFinanziariDerivati
+D.19 - Rettifiche di valore di attività e passività finanziarie, svalutazioni, di attività finanziarie per la gestione accentrata della tesoreria;;;;RettificheValoreAttivitaPassivitaFinanziarieSvalutazioniAttivitaFinanziarieLaGestioneAccentrataTesoreria
+D.19 - Rettifiche di valore di attività e passività finanziarie, svalutazioni, totale svalutazioni;;;;RettificheValoreAttivitaPassivitaFinanziarieSvalutazioniTotaleSvalutazioni
+D - Totale delle rettifiche di valore di attività e passività finanziarie;;;;TotaleRettificheValoreAttivitaPassivitaFinanziarie
+Risultato prima delle imposte;;;;RisultatoPrimaImposte
+20 - Imposte sul reddito dell'esercizio, correnti, differite e anticipate, imposte correnti;;;;ImposteRedditoEsercizioCorrentiDifferiteAnticipateImposteCorrenti
+20 - Imposte sul reddito dell'esercizio, correnti, differite e anticipate, imposte relative a esercizi precedenti;;;;ImposteRedditoEsercizioCorrentiDifferiteAnticipateImposteRelativeEserciziPrecedenti
+20 - Imposte sul reddito dell'esercizio, correnti, differite e anticipate, imposte differite e anticipate;;;;ImposteRedditoEsercizioCorrentiDifferiteAnticipateImposteDifferiteAnticipate
+20 - Imposte sul reddito dell'esercizio, correnti, differite e anticipate, proventi (oneri) da adesione al regime di consolidato fiscale / trasparenza fiscale;;;;ImposteRedditoEsercizioCorrentiDifferiteAnticipateProventiOneriAdesioneRegimeConsolidatoFiscaleTrasparenzaFiscale
+20 - Imposte sul reddito dell'esercizio, correnti, differite e anticipate, totale delle imposte sul reddito dell'esercizio, correnti, differite e anticipate;;;;ImposteRedditoEsercizioCorrentiDifferiteAnticipateTotaleImposteRedditoEsercizioCorrentiDifferiteAnticipate
+21 - Utile (perdita) dell'esercizio;;;;UtilePerditaEsercizio
+21 - Risultato di pertinenza del gruppo;;;;RisultatoPertinenzaGruppo
+21 - Risultato di pertinenza di terzi;;;;RisultatoPertinenzaTerzi
+Utile (perdita) dell'esercizio;;;;UtilePerditaEsercizio
+Imposte sul reddito dell'esercizio, correnti, differite e anticipate, totale delle imposte sul reddito dell'esercizio, correnti, differite e anticipate;;;;ImposteRedditoEsercizioCorrentiDifferiteAnticipateTotaleImposteRedditoEsercizioCorrentiDifferiteAnticipate
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), interessi passivi/(attivi);;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoInteressiPassiviattivi
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), (dividendi);;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoDividendi
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), (plusvalenze)/minusvalenze derivanti dalla cessione di attività;;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoPlusvalenzeminusvalenzeDerivantiCessioneAttivita
+Utile (perdita) dell'esercizio prima d'imposte sul reddito, interessi, dividendi e plus/minusvalenze da cessione;;;;UtilePerditaEsercizioPrimaImposteRedditoInteressiDividendiPlusminusvalenzeCessione
+Rettifiche per elementi non monetari che non hanno avuto contropartita nel capitale circolante netto, accantonamenti ai fondi;;;;RettificheElementiNonMonetariNonHannoAvutoContropartitaCapitaleCircolanteNettoAccantonamentiFondi
+Rettifiche per elementi non monetari che non hanno avuto contropartita nel capitale circolante netto, ammortamenti delle immobilizzazioni;;;;RettificheElementiNonMonetariNonHannoAvutoContropartitaCapitaleCircolanteNettoAmmortamentiImmobilizzazioni
+Rettifiche per elementi non monetari che non hanno avuto contropartita nel capitale circolante netto, svalutazioni per perdite durevoli di valore;;;;RettificheElementiNonMonetariNonHannoAvutoContropartitaCapitaleCircolanteNettoSvalutazioniPerditeDurevoliValore
+Rettifiche di valore di attività e passività finanziarie di strumenti finanziari derivati che non comportano movimentazione monetarie;;;;RettificheValoreAttivitaPassivitaFinanziarieStrumentiFinanziariDerivatiNonComportanoMovimentazioneMonetarie
+Rettifiche per elementi non monetari che non hanno avuto contropartita nel capitale circolante netto, altre rettifiche in aumento/(in diminuzione) per elementi non monetari;;;;RettificheElementiNonMonetariNonHannoAvutoContropartitaCapitaleCircolanteNettoAltreRettificheAumentoinDiminuzioneElementiNonMonetari
+Totale rettifiche per elementi non monetari che non hanno avuto contropartita nel capitale circolante netto;;;;TotaleRettificheElementiNonMonetariNonHannoAvutoContropartitaCapitaleCircolanteNetto
+Flusso finanziario prima delle variazioni del capitale circolante netto;;;;FlussoFinanziarioPrimaVariazioniCapitaleCircolanteNetto
+Variazioni del capitale circolante netto, decremento/(incremento) delle rimanenze;;;;VariazioniCapitaleCircolanteNettoDecrementoincrementoRimanenze
+Variazioni del capitale circolante netto, decremento/(incremento) dei crediti verso clienti;;;;VariazioniCapitaleCircolanteNettoDecrementoincrementoCreditiVersoClienti
+Variazioni del capitale circolante netto, incremento/(decremento) dei debiti verso fornitori;;;;VariazioniCapitaleCircolanteNettoIncrementodecrementoDebitiVersoFornitori
+Variazioni del capitale circolante netto, decremento/(incremento) dei ratei e risconti attivi;;;;VariazioniCapitaleCircolanteNettoDecrementoincrementoRateiRiscontiAttivi
+Variazioni del capitale circolante netto, incremento/(decremento) dei ratei e risconti passivi;;;;VariazioniCapitaleCircolanteNettoIncrementodecrementoRateiRiscontiPassivi
+Variazioni del capitale circolante netto, altri decrementi/(altri incrementi) del capitale circolante netto;;;;VariazioniCapitaleCircolanteNettoAltriDecrementialtriIncrementiCapitaleCircolanteNetto
+Totale variazioni del capitale circolante netto;;;;TotaleVariazioniCapitaleCircolanteNetto
+Flusso finanziario dopo le variazioni del capitale circolante netto;;;;FlussoFinanziarioDopoVariazioniCapitaleCircolanteNetto
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), Altre rettifiche, interessi incassati/(pagati);;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoAltreRettificheInteressiIncassatipagati
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), Altre rettifiche, (imposte sul reddito pagate);;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoAltreRettificheImposteRedditoPagate
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), Altre rettifiche, dividendi incassati;;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoAltreRettificheDividendiIncassati
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), Altre rettifiche, (utilizzo dei fondi);;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoAltreRettificheUtilizzoFondi
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), Altre rettifiche, altri incassi/(pagamenti);;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoAltreRettificheAltriIncassipagamenti
+Flussi finanziari derivanti dall'attività operativa (metodo indiretto), Altre rettifiche, totale altre rettifiche;;;;FlussiFinanziariDerivantiAttivitaOperativaMetodoIndirettoAltreRettificheTotaleAltreRettifiche
+Flusso finanziario dell'attività operativa;;;;FlussoFinanziarioAttivitaOperativa
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni materiali, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniMaterialiInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni materiali, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniMaterialiDisinvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni immateriali, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniImmaterialiInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni immateriali, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniImmaterialiDisinvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni finanziarie, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniFinanziarieInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni finanziarie, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniFinanziarieDisinvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Attività finanziarie non immobilizzate, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoAttivitaFinanziarieNonImmobilizzateInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Attività finanziarie non immobilizzate, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoAttivitaFinanziarieNonImmobilizzateDisinvestimenti
+(Acquisizione di società controllate al netto delle disponibilità liquide);;;;AcquisizioneSocietaControllateNettoDisponibilitaLiquide
+Cessione di società controllate al netto delle disponibilità liquide;;;;CessioneSocietaControllateNettoDisponibilitaLiquide
+Flusso finanziario dell'attività di investimento;;;;FlussoFinanziarioAttivitaInvestimento
+Incremento/(Decremento) debiti a breve verso banche;;;;IncrementoDecrementoDebitiBreveVersoBanche
+Accensione finanziamenti;;;;AccensioneFinanziamenti
+(Rimborso finanziamenti);;;;RimborsoFinanziamenti
+Aumento di capitale a pagamento;;;;AumentoCapitalePagamento
+(Rimborso di capitale);;;;RimborsoCapitale
+Cessione/(Acquisto) di azioni proprie;;;;CessioneAcquistoAzioniProprie
+(Dividendi e acconti su dividendi pagati);;;;DividendiAccontiDividendiPagati
+Flusso finanziario dell'attività di finanziamento;;;;FlussoFinanziarioAttivitaFinanziamento
+Incremento (decremento) delle disponibilità liquide;;;;IncrementoDecrementoDisponibilitaLiquide
+Effetto cambi sulle disponibilità liquide;;;;EffettoCambiDisponibilitaLiquide
+Disponibilità liquide a inizio esercizio, depositi bancari e postali;;;;DisponibilitaLiquideInizioEsercizioDepositiBancariPostali
+Disponibilità liquide a inizio esercizio, assegni;;;;DisponibilitaLiquideInizioEsercizioAssegni
+Disponibilità liquide a inizio esercizio, danaro e valori in cassa;;;;DisponibilitaLiquideInizioEsercizioDanaroValoriCassa
+Disponibilità liquide a inizio esercizio, totale disponibilità liquide a inizio esercizio;;;;DisponibilitaLiquideInizioEsercizioTotaleDisponibilitaLiquideInizioEsercizio
+Disponibilità liquide a inizio esercizio, di cui non liberamente utilizzabili;;;;DisponibilitaLiquideInizioEsercizioNonLiberamenteUtilizzabili
+Disponibilità liquide, depositi bancari e postali;;;;DisponibilitaLiquideDepositiBancariPostali
+Disponibilità liquide, assegni;;;;DisponibilitaLiquideAssegni
+Disponibilità liquide, danaro e valori in cassa;;;;DisponibilitaLiquideDanaroValoriCassa
+Totale disponibilità liquide;;;;TotaleDisponibilitaLiquide
+Disponibilità liquide a fine esercizio, di cui non liberamente utilizzabili;;;;DisponibilitaLiquideFineEsercizioNonLiberamenteUtilizzabili
+Corrispettivi totali pagati o ricevuti;;;;CorrispettiviTotaliPagatiRicevuti
+Parte dei corrispettivi consistente in disponibilità liquide;;;;ParteCorrispettiviConsistenteDisponibilitaLiquide
+Disponibilità liquide acquisite o cedute con le operazioni di acquisizione/cessione delle società controllate;;;;DisponibilitaLiquideAcquisiteCeduteOperazioniAcquisizionecessioneSocietaControllate
+Valore contabile delle attività/passività acquisite o cedute;;;;ValoreContabileAttivitapassivitaAcquisiteCedute
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), incassi da clienti;;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoIncassiClienti
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), altri incassi;;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoAltriIncassi
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), (pagamenti a fornitori per acquisti);;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoPagamentiFornitoriAcquisti
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), (pagamenti a fornitori per servizi);;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoPagamentiFornitoriServizi
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), (pagamenti al personale);;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoPagamentiPersonale
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), (altri pagamenti);;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoAltriPagamenti
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), (imposte pagate sul reddito);;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoImpostePagateReddito
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), interessi incassati/(pagati);;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoInteressiIncassatipagati
+Flussi finanziari derivanti dall'atività operativa (metodo diretto), dividendi incassati;;;;FlussiFinanziariDerivantiAtivitaOperativaMetodoDirettoDividendiIncassati
+Flusso finanziario dell'attività operativa;;;;FlussoFinanziarioAttivitaOperativa
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni materiali, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniMaterialiInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni materiali, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniMaterialiDisinvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni immateriali, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniImmaterialiInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni immateriali, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniImmaterialiDisinvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni finanziarie, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniFinanziarieInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Immobilizzazioni finanziarie, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoImmobilizzazioniFinanziarieDisinvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Attività finanziarie non immobilizzate, (investimenti);;;;FlussiFinanziariDerivantiAttivitaInvestimentoAttivitaFinanziarieNonImmobilizzateInvestimenti
+Flussi finanziari derivanti dall'attività d'investimento, Attività finanziarie non immobilizzate, disinvestimenti;;;;FlussiFinanziariDerivantiAttivitaInvestimentoAttivitaFinanziarieNonImmobilizzateDisinvestimenti
+(Acquisizione di società controllate al netto delle disponibilità liquide);;;;AcquisizioneSocietaControllateNettoDisponibilitaLiquide
+Cessione di società controllate al netto delle disponibilità liquide;;;;CessioneSocietaControllateNettoDisponibilitaLiquide
+Flusso finanziario dell'attività di investimento;;;;FlussoFinanziarioAttivitaInvestimento
+Incremento/(Decremento) debiti a breve verso banche;;;;IncrementoDecrementoDebitiBreveVersoBanche
+Accensione finanziamenti;;;;AccensioneFinanziamenti
+(Rimborso finanziamenti);;;;RimborsoFinanziamenti
+Aumento di capitale a pagamento;;;;AumentoCapitalePagamento
+(Rimborso di capitale);;;;RimborsoCapitale
+Cessione/(Acquisto) di azioni proprie;;;;CessioneAcquistoAzioniProprie
+(Dividendi e acconti su dividendi pagati);;;;DividendiAccontiDividendiPagati
+Flusso finanziario dell'attività di finanziamento;;;;FlussoFinanziarioAttivitaFinanziamento
+Incremento (decremento) delle disponibilità liquide;;;;IncrementoDecrementoDisponibilitaLiquide
+Effetto cambi sulle disponibilità liquide;;;;EffettoCambiDisponibilitaLiquide
+Disponibilità liquide a inizio esercizio, depositi bancari e postali;;;;DisponibilitaLiquideInizioEsercizioDepositiBancariPostali
+Disponibilità liquide a inizio esercizio, assegni;;;;DisponibilitaLiquideInizioEsercizioAssegni
+Disponibilità liquide a inizio esercizio, danaro e valori in cassa;;;;DisponibilitaLiquideInizioEsercizioDanaroValoriCassa
+Disponibilità liquide a inizio esercizio, totale disponibilità liquide a inizio esercizio;;;;DisponibilitaLiquideInizioEsercizioTotaleDisponibilitaLiquideInizioEsercizio
+Disponibilità liquide a inizio esercizio, di cui non liberamente utilizzabili;;;;DisponibilitaLiquideInizioEsercizioNonLiberamenteUtilizzabili
+Disponibilità liquide, depositi bancari e postali;;;;DisponibilitaLiquideDepositiBancariPostali
+Disponibilità liquide, assegni;;;;DisponibilitaLiquideAssegni
+Disponibilità liquide, danaro e valori in cassa;;;;DisponibilitaLiquideDanaroValoriCassa
+Totale disponibilità liquide;;;;TotaleDisponibilitaLiquide
+Disponibilità liquide a fine esercizio, di cui non liberamente utilizzabili;;;;DisponibilitaLiquideFineEsercizioNonLiberamenteUtilizzabili
+Corrispettivi totali pagati o ricevuti;;;;CorrispettiviTotaliPagatiRicevuti
+Parte dei corrispettivi consistente in disponibilità liquide;;;;ParteCorrispettiviConsistenteDisponibilitaLiquide
+Disponibilità liquide acquisite o cedute con le operazioni di acquisizione/cessione delle società controllate;;;;DisponibilitaLiquideAcquisiteCeduteOperazioniAcquisizionecessioneSocietaControllate
+Valore contabile delle attività/passività acquisite o cedute;;;;ValoreContabileAttivitapassivitaAcquisiteCedute
